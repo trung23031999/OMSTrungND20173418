@@ -1,4 +1,4 @@
-package media;
+package controller;
 
 import java.util.List;
 import java.util.Map;
@@ -6,7 +6,10 @@ import java.util.Map;
 import com.oms.bean.Media;
 
 import api.MediaApi;
-import cart.CartController;
+import view.pane.searchpane.BookSearchPane;
+import view.pane.searchpane.MediaSearchPane;
+import view.pane.singlepane.BookSinglePane;
+import view.pane.singlepane.MediaSinglePane;
 
 public class UserBookPageController extends UserMediaPageController{
 	public UserBookPageController() {

@@ -1,12 +1,14 @@
-package editdialog;
+package controller;
 
-import abstractdata.*;
 import api.MediaApi;
 import com.oms.bean.Book;
 import com.oms.bean.Media;
-import media.AdminMediaListPane;
-import media.BookSearchPane;
-import media.BookSinglePane;
+import view.pane.listpane.ADataListPane;
+import view.pane.listpane.AdminMediaListPane;
+import view.pane.searchpane.ADataSearchPane;
+import view.pane.searchpane.BookSearchPane;
+import view.pane.singlepane.ADataSinglePane;
+import view.pane.singlepane.BookSinglePane;
 
 import javax.ws.rs.NotSupportedException;
 import java.util.List;

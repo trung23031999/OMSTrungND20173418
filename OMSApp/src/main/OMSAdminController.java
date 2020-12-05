@@ -1,6 +1,6 @@
 package main;
 
-import editdialog.EditBookController;
+import controller.EditBookController;
 
 import javax.swing.*;
 

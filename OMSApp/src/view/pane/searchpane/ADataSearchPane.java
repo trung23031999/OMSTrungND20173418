@@ -1,4 +1,6 @@
-package abstractdata;
+package view.pane.searchpane;
+
+import controller.IDataSearchController;
 
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;

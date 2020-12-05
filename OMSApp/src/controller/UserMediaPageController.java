@@ -1,10 +1,9 @@
-package media;
+package controller;
 
 import com.oms.bean.Media;
 
-import abstractdata.ADataListPane;
-import abstractdata.ADataPageController;
-import cart.CartController;
+import view.pane.listpane.ADataListPane;
+import view.pane.listpane.UserMediaListPane;
 
 public abstract class UserMediaPageController extends ADataPageController<Media> {
 	private CartController cartController;

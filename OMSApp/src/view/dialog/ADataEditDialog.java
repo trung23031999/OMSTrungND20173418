@@ -1,4 +1,4 @@
-package editdialog;
+package view.dialog;
 
 import java.awt.Frame;
 import java.awt.GridBagConstraints;
@@ -10,7 +10,7 @@ import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JPanel;
 
-import abstractdata.IDataManageController;
+import controller.IDataManageController;
 
 @SuppressWarnings("serial")
 public abstract class ADataEditDialog<T> extends JDialog {

@@ -1,4 +1,4 @@
-package media;
+package view.pane.listpane;
 
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
@@ -10,9 +10,9 @@ import javax.swing.SpinnerNumberModel;
 
 import com.oms.bean.Media;
 
-import abstractdata.ADataListPane;
-import abstractdata.ADataPageController;
-import abstractdata.ADataSinglePane;
+import controller.ADataPageController;
+import view.pane.singlepane.ADataSinglePane;
+import controller.UserMediaPageController;
 
 @SuppressWarnings("serial")
 public class UserMediaListPane extends ADataListPane<Media>{

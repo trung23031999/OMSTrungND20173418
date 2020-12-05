@@ -1,4 +1,4 @@
-package editdialog;
+package view.dialog;
 
 import javax.swing.JLabel;
 import javax.swing.JTextField;
@@ -6,7 +6,7 @@ import javax.swing.JTextField;
 import com.oms.bean.Book;
 import com.oms.bean.Media;
 
-import abstractdata.IDataManageController;
+import controller.IDataManageController;
 
 @SuppressWarnings("serial")
 public class BookEditDialog extends PhysicalMediaEditDialog{

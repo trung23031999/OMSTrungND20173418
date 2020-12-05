@@ -1,12 +1,11 @@
-package media;
+package view.pane.listpane;
 
-import abstractdata.ADataListPane;
-import abstractdata.ADataPageController;
-import abstractdata.ADataSinglePane;
+import controller.ADataPageController;
+import view.pane.singlepane.ADataSinglePane;
 
 import com.oms.bean.Media;
-import editdialog.BookEditDialog;
-import editdialog.EditBookController;
+import view.dialog.BookEditDialog;
+import controller.EditBookController;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

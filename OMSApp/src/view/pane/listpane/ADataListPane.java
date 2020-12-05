@@ -1,4 +1,7 @@
-package abstractdata;
+package view.pane.listpane;
+
+import controller.ADataPageController;
+import view.pane.singlepane.ADataSinglePane;
 
 import java.awt.Dimension;
 import java.awt.LayoutManager;

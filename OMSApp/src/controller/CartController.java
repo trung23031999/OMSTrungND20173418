@@ -1,5 +1,7 @@
-package cart;
+package controller;
 
+import view.dialog.CartDialog;
+import view.CartPane;
 import com.oms.bean.Order;
 import com.oms.bean.OrderLine;
 

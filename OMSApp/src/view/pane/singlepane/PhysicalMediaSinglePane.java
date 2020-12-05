@@ -1,4 +1,4 @@
-package media;
+package view.pane.singlepane;
 
 import javax.swing.JLabel;
 

@@ -1,11 +1,9 @@
-package media;
+package view.pane.searchpane;
 
 import java.util.Map;
 
 import javax.swing.JLabel;
 import javax.swing.JTextField;
-
-import abstractdata.ADataSearchPane;
 
 @SuppressWarnings("serial")
 public class MediaSearchPane extends ADataSearchPane {

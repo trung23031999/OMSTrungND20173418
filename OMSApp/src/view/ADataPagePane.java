@@ -1,4 +1,7 @@
-package abstractdata;
+package view;
+
+import view.pane.searchpane.ADataSearchPane;
+import view.pane.listpane.ADataListPane;
 
 import javax.swing.JPanel;
 import javax.swing.SpringLayout;

@@ -1,4 +1,4 @@
-package media;
+package view.pane.searchpane;
 
 import javax.swing.*;
 import java.util.Map;

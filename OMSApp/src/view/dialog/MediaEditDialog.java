@@ -1,11 +1,11 @@
-package editdialog;
+package view.dialog;
 
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
 import com.oms.bean.Media;
 
-import abstractdata.IDataManageController;
+import controller.IDataManageController;
 
 @SuppressWarnings("serial")
 public class MediaEditDialog extends ADataEditDialog<Media>{

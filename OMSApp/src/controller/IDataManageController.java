@@ -1,4 +1,4 @@
-package abstractdata;
+package controller;
 
 public interface IDataManageController<T> {
 	public void create(T t);

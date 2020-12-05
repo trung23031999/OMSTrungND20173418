@@ -1,10 +1,8 @@
-package media;
+package view.pane.singlepane;
 
 import javax.swing.JLabel;
 
 import com.oms.bean.Media;
-
-import abstractdata.ADataSinglePane;
 
 @SuppressWarnings("serial")
 public class MediaSinglePane extends ADataSinglePane<Media>{

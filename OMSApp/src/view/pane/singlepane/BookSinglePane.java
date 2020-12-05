@@ -1,4 +1,4 @@
-package media;
+package view.pane.singlepane;
 
 import com.oms.bean.Book;
 import com.oms.bean.Media;

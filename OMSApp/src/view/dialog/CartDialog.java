@@ -1,4 +1,4 @@
-package cart;
+package view.dialog;
 
 import java.awt.Dimension;
 import java.awt.GridBagConstraints;
@@ -20,6 +20,7 @@ import javax.swing.event.ChangeListener;
 
 import com.oms.bean.Order;
 import com.oms.bean.OrderLine;
+import controller.CartController;
 
 @SuppressWarnings("serial")
 public class CartDialog extends JDialog{

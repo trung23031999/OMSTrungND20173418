@@ -1,4 +1,6 @@
-package cart;
+package view;
+
+import controller.CartController;
 
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;

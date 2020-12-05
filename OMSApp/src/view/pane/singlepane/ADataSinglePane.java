@@ -1,4 +1,4 @@
-package abstractdata;
+package view.pane.singlepane;
 
 import java.awt.Component;
 import java.awt.FlowLayout;

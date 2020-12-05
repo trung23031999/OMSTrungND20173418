@@ -1,4 +1,9 @@
-package abstractdata;
+package controller;
+
+import view.ADataPagePane;
+import view.pane.searchpane.ADataSearchPane;
+import view.pane.singlepane.ADataSinglePane;
+import view.pane.listpane.ADataListPane;
 
 import java.util.List;
 import java.util.Map;

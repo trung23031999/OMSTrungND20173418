@@ -2,8 +2,8 @@ package main;
 
 import javax.swing.JPanel;
 
-import cart.CartController;
-import media.UserBookPageController;
+import controller.CartController;
+import controller.UserBookPageController;
 
 public class OMSUserController {
 	private CartController cartController;
